@@ -2,6 +2,7 @@
 Japanese chat input using hand gestures VRChat OSC
 
 Enter text into chat in Japanese using hand gestures using VRChat OSC.
+
 VRChat OSCを使用し、ハンドジェスチャーを使ってチャットに日本語でテキストを入力する。
 
 ## 入力パターン
