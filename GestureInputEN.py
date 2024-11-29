@@ -162,6 +162,7 @@ class GUI():
     def send(self):
         global textBox, beforeSend, chengeFlag
         sendChat(textBox)
+        beforeSend = textBox
         textBox = ""
         chengeFlag = True
         
